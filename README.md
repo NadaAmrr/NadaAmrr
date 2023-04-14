@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)]
-[![Dart progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=dart&value=100)]
-[![JavaScript progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=JavaScript&value=70)]
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=css&value=60)]
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)
+[![Dart progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=dart&value=100)
+[![JavaScript progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=JavaScript&value=70)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=css&value=60)
 
 <!--
 **NadaAmrr/NadaAmrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
